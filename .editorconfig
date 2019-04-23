@@ -10,4 +10,4 @@ tab_width = 8
 
 [*.1024]
 indent_style = space
-tab_width = 1024
+tab_width = 4
