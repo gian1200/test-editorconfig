@@ -1,10 +1,7 @@
 root = true
 
-[*.4]
+[*.{4,1024}]
 tab_width = 4
 
 [*.8]
 tab_width = 8
-
-[*.1024]
-tab_width = 4
